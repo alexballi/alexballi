@@ -1,8 +1,27 @@
-## Hi there 👋
+# Hi, I'm Alex Balli 👋
 
-- 🔭 I’m currently working on teleoperated robotics using virtual reality
-- 🌱 I’m currently learning Three.js
-- 👯 I’m looking to collaborate on engineering projects in the Santa Cruz area
-- 📫 How to reach me: aballi@ucsc.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite book is Klara and the Sun
+Electrical Engineer focused on embedded systems, power electronics, and hardware validation.
+
+## Current Interests
+- PCB design and hardware integration
+- Power distribution systems
+- Embedded hardware
+- Aerospace, defense, and autonomous systems
+
+## Projects
+### WattWise Power Distribution System
+- Power distribution and load balancing project
+- Relay validation, hardware testing, and system integration
+
+### Ground Bounce Analysis
+- Hardware validation and oscilloscope testing focused on transient response and PCB behavior
+
+### Audio Amplifier Design
+- Schematic design and analog circuit development
+
+## Contact
+📫 alexanderjballi@gmail.com
+
+## Fun Facts
+⚡ Favorite book: *Klara and the Sun*  
+⚡ Favorite movie: *Hot Fuzz*
